@@ -1,0 +1,4 @@
+*.swp
+*.cov
+docs/build/
+docs/site/
